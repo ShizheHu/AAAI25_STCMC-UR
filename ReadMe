@@ -1,0 +1,14 @@
+The code and dataset are about the paper "Self-supervised Trusted Contrastive Multi-view Clustering with Uncertainty Refined", and all the details are in the ZIP file.
+
+If you are going to using our code, please cite our paper with the following:
+
+@article{Hu_Tian_Liu_Ye_2025,
+  author={Hu, Shizhe and Tian, Binyan and Liu, Weibo and Ye, Yangdong},
+title={Self-supervised Trusted Contrastive Multi-view Clustering with Uncertainty Refined},
+volume={39},
+ number={16},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2025},
+  month={Apr.},
+   pages={17305-17313},
+    }
